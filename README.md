@@ -44,6 +44,7 @@ Program for flipflops and verify its truth table in quartus using Verilog progra
 Developed by:Yogeshvar M
 RegisterNumber:212222230180
 ```
+```
 module D_FF(D,Clock,reset,Q);
 input D,Clock,reset;
 output reg Q;
