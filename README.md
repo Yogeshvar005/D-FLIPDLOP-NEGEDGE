@@ -57,11 +57,11 @@ endmodule
 
 
 **RTL LOGIC FOR FLIPFLOPS**
-![image](https://github.com/DakshataGajendran/D-FLIPDLOP-NEGEDGE/assets/145742623/451868ee-8113-4d4f-90df-6522101ff13e)
+![image](https://github.com/user-attachments/assets/6c439f15-0f30-4cb6-8ca2-fdec6541c7e4)
 
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
-![image](https://github.com/DakshataGajendran/D-FLIPDLOP-NEGEDGE/assets/145742623/2c601224-fc41-46b8-abc3-18c9bc8dc726)
+![image](https://github.com/user-attachments/assets/ffca9d2a-ec4e-4f01-af1d-8157f19568a2)
 
 
 
